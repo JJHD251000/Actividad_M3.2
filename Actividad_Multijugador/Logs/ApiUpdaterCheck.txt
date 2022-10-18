@@ -1,0 +1,10 @@
+[api-updater (non-obsolete-error-filter)] 18/10/2022 11:55:39 a. m. : Starting /Volumes/TOSHIBA EXT/2020.3.37f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 587.734ms
+moved types parse time: 73ms
+candidates parse time : 2ms
+C# parse time         : 595ms
+candidates check time : 83ms
+console write time    : 1ms
+
